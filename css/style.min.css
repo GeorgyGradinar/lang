@@ -470,29 +470,28 @@
     text-shadow: none
 }
 
-.sign-wrap {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center
-}
+/*.sign-wrap {*/
+/*    display: -webkit-box;*/
+/*    display: -ms-flexbox;*/
+/*    display: flex;*/
+/*    -webkit-box-pack: center;*/
+/*    -ms-flex-pack: center;*/
+/*    justify-content: center;*/
+/*    -webkit-box-align: center;*/
+/*    -ms-flex-align: center;*/
+/*    align-items: center*/
+/*}*/
 
-.sign__form-wrap {
-    width: 900px;
-    height: 420px;
-    border-radius: 32px;
-    background-color: #a336d6;
-    padding-top: 58px;
-    padding-left: 77px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex
-}
+/*.sign__form-wrap {*/
+/*    width: 900px;*/
+/*    border-radius: 32px;*/
+/*    background-color: #a336d6;*/
+/*    padding-top: 58px;*/
+/*    padding-left: 77px;*/
+/*    display: -webkit-box;*/
+/*    display: -ms-flexbox;*/
+/*    display: flex*/
+/*}*/
 
 .sign__form-wrap-col1 {
     width: 430px;
@@ -2453,15 +2452,15 @@ button {
 }
 
 @media (min-width: 768px) {
-    .sign-wrap {
-        background: url(/img/Clay_Purple0001_75.png) 0 0 no-repeat, url(/img/Clay_Purple0084_75.png) 70% 7% no-repeat, url(/img/Clay_Purple0052_75.png) 25% 80% no-repeat, url(/img/Clay_Purple0058_75.png) 104% 80% no-repeat
-    }
+    /*.sign-wrap {*/
+    /*    background: url(/img/Clay_Purple0001_75.png) 0 0 no-repeat, url(/img/Clay_Purple0084_75.png) 70% 7% no-repeat, url(/img/Clay_Purple0052_75.png) 25% 80% no-repeat, url(/img/Clay_Purple0058_75.png) 104% 80% no-repeat*/
+    /*}*/
 }
 
 @media (min-width: 1200px) {
-    .sign-wrap {
-        background: url(/img/Clay_Purple0001.png) 0 0 no-repeat, url(/img/Clay_Purple0084.png) 70% 7% no-repeat, url(/img/Clay_Purple0052.png) 25% 80% no-repeat, url(/img/Clay_Purple0058.png) 104% 80% no-repeat
-    }
+    /*.sign-wrap {*/
+    /*    background: url(/img/Clay_Purple0001.png) 0 0 no-repeat, url(/img/Clay_Purple0084.png) 70% 7% no-repeat, url(/img/Clay_Purple0052.png) 25% 80% no-repeat, url(/img/Clay_Purple0058.png) 104% 80% no-repeat*/
+    /*}*/
 }
 
 @media (min-width: 1366px) {
@@ -2512,21 +2511,21 @@ button {
     /*    font-size: calc(8px + 7 * (100vw - 320px) / 1046)*/
     /*}*/
 
-    .sign__form-wrap {
-        width: calc(300px + 600 * (100vw - 320px) / 1046)
-    }
+    /*.sign__form-wrap {*/
+    /*    width: calc(300px + 600 * (100vw - 320px) / 1046)*/
+    /*}*/
 
-    .sign__form-wrap {
-        height: calc(220px + 200 * (100vw - 320px) / 1046)
-    }
+    /*.sign__form-wrap {*/
+    /*    height: calc(220px + 200 * (100vw - 320px) / 1046)*/
+    /*}*/
 
-    .sign__form-wrap {
-        padding-top: calc(5px + 53 * (100vw - 320px) / 1046)
-    }
+    /*.sign__form-wrap {*/
+    /*    padding-top: calc(5px + 53 * (100vw - 320px) / 1046)*/
+    /*}*/
 
-    .sign__form-wrap {
-        padding-left: calc(5px + 72 * (100vw - 320px) / 1046)
-    }
+    /*.sign__form-wrap {*/
+    /*    padding-left: calc(5px + 72 * (100vw - 320px) / 1046)*/
+    /*}*/
 
     .sign__form-wrap-col1 {
         font-size: calc(10px + 5 * (100vw - 320px) / 1046)
@@ -3822,9 +3821,9 @@ button {
 }
 
 @media (max-width: 768px) {
-    .sign-wrap {
-        background: url(/img/Clay_Purple0001_50.png) 0 30% no-repeat, url(/img/Clay_Purple0084_50.png) 70% 37% no-repeat, url(/img/Clay_Purple0052_50.png) 25% 80% no-repeat, url(/img/Clay_Purple0058_50.png) 104% 80% no-repeat
-    }
+    /*.sign-wrap {*/
+    /*    background: url(/img/Clay_Purple0001_50.png) 0 30% no-repeat, url(/img/Clay_Purple0084_50.png) 70% 37% no-repeat, url(/img/Clay_Purple0052_50.png) 25% 80% no-repeat, url(/img/Clay_Purple0058_50.png) 104% 80% no-repeat*/
+    /*}*/
 
     /*.state-week {*/
     /*    height: 200px*/
@@ -3973,9 +3972,9 @@ button {
     /*    font-size: 60px*/
     /*}*/
 
-    .sign__form-wrap {
-        width: 230px
-    }
+    /*.sign__form-wrap {*/
+    /*    width: 230px*/
+    /*}*/
 
     .sign-promo img {
         display: none
