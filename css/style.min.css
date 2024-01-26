@@ -1756,9 +1756,9 @@
     grid-column-gap: 4px
 }
 
-.chat {
-    height: 100%
-}
+/*.chat {*/
+/*    height: 100%*/
+/*}*/
 
 .chat__header {
     height: 48px;
@@ -3980,9 +3980,9 @@ button {
         display: none
     }
 
-    .chat {
-        font-size: 11px
-    }
+    /*.chat {*/
+    /*    font-size: 11px*/
+    /*}*/
 
     .chat__header {
         height: 32px;
